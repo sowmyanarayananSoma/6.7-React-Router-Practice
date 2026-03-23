@@ -68,7 +68,7 @@ src/
 
 ### Build (`/build`)
 - Display two links: **Build a Web App** and **Build a Mobile App**
-- When neither is selected, show a message: *"Select an option to get started"*
+- Show a message: *"Select an option to get started"*
 - Use `<NavLink>` so the active link is visually highlighted
 - Use `<Outlet />` to render the selected child route below the links
 
